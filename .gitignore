@@ -1,0 +1,31 @@
+# IDE
+.idea/
+.vscode/
+
+# folder
+__*/
+.ipynb_checkpoints/
+out/
+
+# file
+-*
+*.zip
+*.tgz
+Untitled.ipynb
+MyCV.pdf
+MyCV.md
+GSD_*.pdf
+
+# root
+/demo.py
+/test.py
+
+# prevent being filtered
+!__init__.py
+
+# Python
+.py[cod]
+*.egg
+*.egg-info
+/dist/
+__pycache__/
